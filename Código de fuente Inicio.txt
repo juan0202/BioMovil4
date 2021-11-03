@@ -1,0 +1,1862 @@
+<!DOCTYPE html>
+<html lang="es-CO"
+	prefix="og: https://ogp.me/ns#"  class="no-js no-svg">
+<head>
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZQ7XZV6LGY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZQ7XZV6LGY');
+</script>
+	
+<meta name="facebook-domain-verification" content="t6zbov1ki5j1gvdh99dt06yukftlle" />
+	
+<!-- Etiqueta Global Google Ads	-->
+	
+	
+	
+	<!-- Global site tag (gtag.js) - Google Ads: 603986236 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-603986236"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-603986236');
+</script>
+	
+	
+	
+<!-- Etiqueta de evento Google Ads Tráfico web	-->
+	<!-- Event snippet for Tráfico Web conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-603986236/ByKvCL-AjNsBELyygKAC'});
+</script>
+
+	
+	
+<!-- Etiqueta de evento Google Ads	conversiones -->
+	<!-- Event snippet for Vista de una página conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-603986236/-dm-CIC5rdwBELyygKAC',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+	
+	
+<!-- Etiqueta de Google Tag Manager	-->
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NFJJK4V');</script>
+<!-- End Google Tag Manager -->
+
+	
+	<!-- Etiqueta de Google ADS	-->
+<script data-ad-client="ca-pub-6406247930395474" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<title>BIOMOVIL - POR UN MEJOR AMBIENTE</title>
+
+		<!-- All in One SEO 4.1.4.4 -->
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://biomovil.co/" />
+		<meta property="og:locale" content="es_ES" />
+		<meta property="og:site_name" content="Biomovil | Por un mejor ambiente" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="BIOMOVIL - POR UN MEJOR AMBIENTE" />
+		<meta property="og:url" content="https://biomovil.co/" />
+		<meta property="article:published_time" content="2018-11-29T05:38:27+00:00" />
+		<meta property="article:modified_time" content="2021-07-31T14:41:28+00:00" />
+		<meta property="article:publisher" content="https://www.facebook.com/Biomovil-2372649496101900/" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:domain" content="biomovil.co" />
+		<meta name="twitter:title" content="BIOMOVIL - POR UN MEJOR AMBIENTE" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/biomovil.co\/#website","url":"https:\/\/biomovil.co\/","name":"Biomovil","description":"Por un mejor ambiente","inLanguage":"es-CO","publisher":{"@id":"https:\/\/biomovil.co\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/biomovil.co\/?s={search_term_string}"},"query-input":"required name=search_term_string"}},{"@type":"Organization","@id":"https:\/\/biomovil.co\/#organization","name":"BIOMOVIL","url":"https:\/\/biomovil.co\/","logo":{"@type":"ImageObject","@id":"https:\/\/biomovil.co\/#organizationLogo","url":"https:\/\/biomovil.co\/wp-content\/uploads\/2020\/08\/BIOMOVIL-logos-mediano-2.png","width":6175,"height":1733,"caption":"BIOMOVIL logo"},"image":{"@id":"https:\/\/biomovil.co\/#organizationLogo"},"sameAs":["https:\/\/www.facebook.com\/Biomovil-2372649496101900\/","https:\/\/www.instagram.com\/biomovilsas\/","https:\/\/www.linkedin.com\/company\/biomovil-sas"],"contactPoint":{"@type":"ContactPoint","telephone":"+573103790279","contactType":"customer support"}},{"@type":"BreadcrumbList","@id":"https:\/\/biomovil.co\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/biomovil.co\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/biomovil.co\/","name":"Inicio","description":"Por un mejor ambiente","url":"https:\/\/biomovil.co\/"}}]},{"@type":"WebPage","@id":"https:\/\/biomovil.co\/#webpage","url":"https:\/\/biomovil.co\/","name":"BIOMOVIL - POR UN MEJOR AMBIENTE","inLanguage":"es-CO","isPartOf":{"@id":"https:\/\/biomovil.co\/#website"},"breadcrumb":{"@id":"https:\/\/biomovil.co\/#breadcrumblist"},"datePublished":"2018-11-29T05:38:27-05:00","dateModified":"2021-07-31T14:41:28-05:00"}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Biomovil &raquo; Feed" href="https://biomovil.co/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Biomovil &raquo; RSS de los comentarios" href="https://biomovil.co/comments/feed/" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=UA-170963763-1"  type="text/javascript" data-cfasync="false" async></script>
+			<script data-cfasync="false">
+				var mi_version = '8.1.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-170963763-1',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for ( var index = 0; index < disableStrs.length; index++ ) {
+						document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[ disableStrs[ index ] ] = true;
+					}
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if ( mi_track_user ) {
+					function __gtagDataLayer() {
+						dataLayer.push( arguments );
+					}
+
+					function __gtagTracker( type, name, parameters ) {
+						if ( type === 'event' ) {
+							
+															parameters.send_to = monsterinsights_frontend.ua;
+								__gtagDataLayer.apply( null, arguments );
+													} else {
+							__gtagDataLayer.apply( null, arguments );
+						}
+					}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dZGIzZG' : true,
+											} );
+															__gtagTracker( 'config', 'UA-170963763-1', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( 'pageview' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[2] ) {
+												hitObject = {
+													'eventAction': 'page_view',
+													'page_path' : arguments[2],
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
+										if ( 'undefined' !== typeof arguments[1].hitType ) {
+											hitObject = arguments[1];
+											if ( 'pageview' === hitObject.hitType ) {
+												hitObject.eventAction = 'page_view';
+											}
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var arg, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+										'page' : 'page_path',
+										'location' : 'page_location',
+										'title' : 'page_title',
+									};
+									for ( arg in args ) {
+																				if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+											hit[gaMap[arg]] = args[arg];
+										} else {
+											hit[arg] = args[arg];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+				<!-- / Google Analytics by MonsterInsights -->
+				<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/biomovil.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://biomovil.co/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://biomovil.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://biomovil.co/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='cspt-all-gfonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%2Citalic%2Cregular%2C700%2C500%2Cregular%7CAsap%3A700%2C600%2Cregular%2C500%7CPlayfair+Display%3Aregular%7CRoboto+Condensed%3A700&#038;ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='joinchat-css'  href='https://biomovil.co/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=4.1.15' type='text/css' media='all' />
+<style id='joinchat-inline-css'>
+.joinchat{ --red:37; --green:211; --blue:102; }
+</style>
+<link rel='stylesheet' id='js_composer_front-css'  href='https://biomovil.co/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://biomovil.co/wp-content/themes/greenly/libraries/bootstrap/css/bootstrap.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cspt-core-style-css'  href='https://biomovil.co/wp-content/themes/greenly/css/core.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cspt-theme-style-css'  href='https://biomovil.co/wp-content/themes/greenly/css/theme.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://biomovil.co/wp-content/themes/greenly/libraries/magnific-popup/magnific-popup.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cspt-base-icons-css'  href='https://biomovil.co/wp-content/themes/greenly/libraries/creativesplanet-base-icons/css/creativesplanet-base-icons.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='balloon-css'  href='https://biomovil.co/wp-content/themes/greenly/libraries/balloon/balloon.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cspt-dynamic-style-css'  href='https://biomovil.co/wp-admin/admin-ajax.php?action=cspt_auto_css&#038;ver=5.8.1' type='text/css' media='all' />
+<style id='cspt-dynamic-style-inline-css'>
+.vc_custom_1549943663177:before{background-image:none!important}.vc_custom_1550031313512:before{background-image:none!important}@media (max-width:767px){.cspt-column.cspt-responsive-custom-94483742>.vc_column-inner{margin-top:60px!important;padding-right:30px!important;padding-left:30px!important}}@media (max-width:767px){.cspt-row.cspt-responsive-custom-19833902{padding-bottom:50px!important}}.vc_custom_1549970273374:before{background-image:none!important}.vc_custom_1549952159126:before{background-image:none!important}@media (max-width:991px){.cspt-column.cspt-responsive-custom-92825199>.vc_column-inner{margin-top:60px!important;padding-left:0!important}}.vc_custom_1548739055171:before{background-image:none!important}.vc_custom_1627575524073:before{background-image:none!important}.vc_custom_1549954032202:before{background-image:none!important}.vc_custom_1549943751404:before{background-image:none!important}.vc_custom_1549959545958:before{background-image:none!important}@media (max-width:991px){.cspt-column.cspt-responsive-custom-34724944>.vc_column-inner{margin-top:50px!important}}.vc_custom_1548742610904:before{background-image:none!important}.vc_custom_1627583343684:before{background-image:none!important}
+</style>
+<link rel='stylesheet' id='cspt-responsive-style-css'  href='https://biomovil.co/wp-content/themes/greenly/css/responsive.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://biomovil.co/wp-content/plugins/greenly-addons/libraries/owl-carousel/assets/owl.carousel.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-theme-css'  href='https://biomovil.co/wp-content/plugins/greenly-addons/libraries/owl-carousel/assets/owl.theme.default.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_loraregularitalic700700italic-css'  href='https://fonts.googleapis.com/css?family=Lora%3Aregular%2Citalic%2C700%2C700italic&#038;ver=5.8.1' type='text/css' media='all' />
+<script id='monsterinsights-frontend-script-js-extra'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/biomovil.co","hash_tracking":"false","ua":"UA-170963763-1","v4_id":""};
+/* ]]> */
+</script>
+<script src='https://biomovil.co/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
+<script src='https://biomovil.co/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://biomovil.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/greenly-addons/js/addon-scripts.js?ver=5.8.1' id='greenly-addons-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.2' id='tp-tools-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.2' id='revmin-js'></script>
+<script src='https://biomovil.co/wp-content/themes/greenly/libraries/magnific-popup/jquery.magnific-popup.min.js?ver=5.8.1' id='magnific-popup-js'></script>
+<script src='https://biomovil.co/wp-content/themes/greenly/libraries/sticky-toolkit/jquery.sticky-kit.min.js?ver=5.8.1' id='jquery-sticky-js'></script>
+<script id='cspt-core-script-js-extra'>
+/* <![CDATA[ */
+var cspt_js_variables = {"responsive":"1200"};
+/* ]]> */
+</script>
+<script src='https://biomovil.co/wp-content/themes/greenly/js/core.js?ver=5.8.1' id='cspt-core-script-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/greenly-addons/libraries/numinate/numinate.min.js?ver=5.8.1' id='numinate-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/greenly-addons/libraries/owl-carousel/owl.carousel.min.js?ver=5.8.1' id='owl-carousel-js'></script>
+<link rel="https://api.w.org/" href="https://biomovil.co/wp-json/" /><link rel="alternate" type="application/json" href="https://biomovil.co/wp-json/wp/v2/pages/8332" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://biomovil.co/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://biomovil.co/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel='shortlink' href='https://biomovil.co/' />
+<link rel="alternate" type="application/json+oembed" href="https://biomovil.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbiomovil.co%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://biomovil.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbiomovil.co%2F&#038;format=xml" />
+<!-- Global site tag (gtag.js) - Google Ads: 613614843 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-613614843"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-613614843');
+</script>
+<!-- Event snippet for Website traffic conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-613614843/MfRHCMDt1dcBEPuJzKQC'});
+</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://biomovil.co/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script id="sns_global_scripts_in_head">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"b49b4b6a613d44364c05042e4a62e1ce4d74bbe9929f7c0b99109120849025ba", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="httpss://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);</script><link rel="icon" href="https://biomovil.co/wp-content/uploads/2019/03/cropped-logo-02-e1553756765531-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://biomovil.co/wp-content/uploads/2019/03/cropped-logo-02-e1553756765531-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://biomovil.co/wp-content/uploads/2019/03/cropped-logo-02-e1553756765531-180x180.png" />
+<meta name="msapplication-TileImage" content="https://biomovil.co/wp-content/uploads/2019/03/cropped-logo-02-e1553756765531-270x270.png" />
+<script>function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style id="wp-custom-css">
+			div.wpcf7 P { 
+color:#000
+background-color: white;
+border: 1px solid #0000000;
+padding:5px;
+}
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 textarea {
+background: #FFFFFF;
+color:#000;
+font-family: lora, sans-serif;
+font-style: italic; 
+}
+.wpcf7 input[type="submit"],
+.wpcf7 input[type="button"] { 
+background-color:#00AEFF;
+width:100%;
+text-align:center;
+text-transform:uppercase;		</style>
+		<style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCRc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fABc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCBc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBxc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fCxc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fChc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmEU9fBBc-AMP6lQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCRc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfABc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCBc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBxc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfCxc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfChc-AMP6lbBP.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto/KFOlCnqEu92Fr1MmWUlfBBc-AMP6lQ.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* vietnamese */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsEI1phGW3ieBVEfQzbgWw.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsEI1phHW3ieBVEfQzbgWw.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsEI1phJW3ieBVEfQzY.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsHk0ZhGW3ieBVEfQzbgWw.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsHk0ZhHW3ieBVEfQzbgWw.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsHk0ZhJW3ieBVEfQzY.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsHd0ZhGW3ieBVEfQzbgWw.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsHd0ZhHW3ieBVEfQzbgWw.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/home3/bqhumimy/public_html/biomovilcom/wp-content/fonts/asap/KFO9CniXp96a4Tc2EZzSuDAoKsHd0ZhJW3ieBVEfQzY.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/playfair-display/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDTbtXK-F2qO0isEw.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/playfair-display/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDYbtXK-F2qO0isEw.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/playfair-display/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtXK-F2qO0isEw.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/playfair-display/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtXK-F2qO0g.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCkYadlecyVC4A.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCAYadlecyVC4A.woff) format('woff');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCgYadlecyVC4A.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCcYadlecyVC4A.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCsYadlecyVC4A.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCoYadlecyVC4A.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://biomovil.co/wp-content/fonts/roboto-condensed/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYadlecyU.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><style data-type="vc_shortcodes-custom-css">.vc_custom_1549943663177{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1548739055171{padding-bottom: 100px !important;background-image: url(httpss://demo.creativesplanet.com/greenly/greenly-datasite/wp-content/uploads/sites/9/2018/12/bg_01_01-new.png?id=8718) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1549943751404{padding-top: 50px !important;padding-bottom: 50px !important;}.vc_custom_1549959545958{padding-top: 120px !important;padding-bottom: 60px !important;background-image: url(httpss://demo.creativesplanet.com/greenly/greenly-datasite/wp-content/uploads/sites/9/2019/01/bg-pattern.jpg?id=9544) !important;background-position: 0 0 !important;background-repeat: repeat !important;}.vc_custom_1627583343684{border-top-width: 1px !important;padding-top: 25px !important;padding-bottom: 50px !important;background-image: url(httpss://demo.creativesplanet.com/greenly/greenly-datasite/wp-content/uploads/sites/9/2019/01/bg-pattern.jpg?id=9544) !important;background-position: 0 0 !important;background-repeat: repeat !important;border-top-color: #e5e5e5 !important;border-top-style: solid !important;}.vc_custom_1550031313512{margin-top: -60px !important;padding-top: 40px !important;padding-right: 60px !important;padding-bottom: 30px !important;padding-left: 60px !important;}.vc_custom_1549970273374{padding-right: 90px !important;}.vc_custom_1549952159126{padding-left: 54px !important;}.vc_custom_1594263603231{margin-top: 30px !important;margin-bottom: 0px !important;}.vc_custom_1553657161723{margin-bottom: 0px !important;}.vc_custom_1627575524073{padding-top: 30px !important;}.vc_custom_1549954032202{margin-right: 15px !important;margin-left: 15px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1553751754961{margin-bottom: 70px !important;}.vc_custom_1553745789139{margin-bottom: 8px !important;}.vc_custom_1627576723234{margin-bottom: 0px !important;}.vc_custom_1627576647523{margin-top: 10px !important;margin-bottom: 0px !important;}.vc_custom_1548742610904{margin-bottom: 40px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+	
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFJJK4V"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+	
+	<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2544471125878048');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2544471125878048&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+	
+</head>
+
+<body class="home page-template-default page page-id-8332 cspt-sidebar-no wpb-js-composer js-comp-ver-5.7 vc_responsive">
+	
+<script>
+  fbq('track', 'Contact');
+</script>
+	
+<script>
+  fbq('track', 'CompleteRegistration', {
+    value: 1,
+    currency: 'COP',
+  });
+</script>
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	<header id="masthead" class="site-header cspt-header-style-2">
+		<div class="cspt-sticky-logo-yes">
+				<div class="cspt-header-top-area cspt-header-wrapper cspt-bg-color-white">
+			<div class="container">
+				<div class="d-flex align-items-center">
+					<div class="site-branding cspt-logo-area">
+						<div class="wrap"><h1 class="site-title"><a href="https://biomovil.co/" rel="home"><img class="cspt-main-logo" src="https://biomovil.com.co/wp-content/uploads/2019/02/Logo-Biomovil.png" alt="Biomovil" title="Biomovil" /><img class="cspt-sticky-logo" src="https://biomovil.com.co/wp-content/uploads/2019/02/Logo-Biomovil.png" alt="Biomovil" title="Biomovil" /></a></h1></div><!-- .wrap -->
+					</div><!-- .site-branding -->
+					<div class="cspt-header-info ml-auto">
+						<div class="cspt-header-info-inner">
+										<div class="cspt-header-box-1">
+				<div class="cspt-header-box-icon"><i class="cspt-greenly-icon cspt-greenly-icon-placeholder"></i></div>				<div class="cspt-header-box-title">Calle 35C # 66b-77</div>
+				<div class="cspt-header-box-content">Itagüi, Antioquia</div>
+			</div>
+						<div class="cspt-header-box-2">
+				<div class="cspt-header-box-icon"><i class="cspt-greenly-icon cspt-greenly-icon-placeholder"></i></div>				<div class="cspt-header-box-title">Correo:</div>
+				<div class="cspt-header-box-content">mercadeo@biomovil.net</div>
+			</div>
+						<div class="cspt-header-box-3">
+				<div class="cspt-header-box-icon"><i class="cspt-greenly-icon cspt-greenly-icon-placeholder"></i></div>				<div class="cspt-header-box-title">Contáctanos</div>
+				<div class="cspt-header-box-content">322 28 04 - 310 379 0279</div>
+			</div>
+									</div>
+					</div>
+					<button id="menu-toggle" class="nav-menu-toggle">
+						<i class="cspt-base-icon-menu"></i>
+					</button>
+				</div>
+			</div>
+		</div><!-- .container -->
+		<div class="cspt-header-menu-area-wrapper" style="min-height:68px;">
+			<div class="cspt-header-menu-area cspt-header-sticky-yes cspt-sticky-type- cspt-sticky-bg-color-white cspt-bg-color-white">
+				<div class="container">
+					<div class="cspt-header-menu-area-inner d-flex align-items-center justify-content-between">
+												<div class="navigation-top">
+							<div class="wrap">
+								<nav id="site-navigation" class="main-navigation cspt-navbar  cspt-main-active-color-globalcolor cspt-dropdown-active-color-globalcolor" aria-label="Top Menu">
+									<div class="menu-principal-container"><ul id="cspt-top-menu" class="menu"><li id="menu-item-10736" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-10736"><a href="https://biomovil.co" aria-current="page">Inicio</a></li>
+<li id="menu-item-10737" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10737"><a href="https://biomovil.co/la-empresa/">La Empresa</a></li>
+<li id="menu-item-10738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10738"><a href="https://biomovil.co/servicios/">Productos y Servicios</a></li>
+<li id="menu-item-10739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10739"><a href="https://biomovil.co/blog/">Blog</a></li>
+<li id="menu-item-10740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10740"><a href="https://biomovil.co/politica-de-privacidad/">Política de Privacidad</a></li>
+<li id="menu-item-10741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10741"><a href="https://biomovil.co/contactanos/">Contáctanos</a></li>
+</ul></div>								</nav><!-- #site-navigation -->
+							</div><!-- .wrap -->
+						</div><!-- .navigation-top -->
+												<div class="cspt-right-side">
+																												
+					<div class="cspt-header-button">
+		
+		<a href="https://api.whatsapp.com/send?phone=573103790279&#038;text=Hola,estoyinteresadoenconocermsdesusservicios">COMUNÍCATE CON NOSOTROS</a>
+
+					</div>
+		
+								</div>
+					</div><!-- .container -->
+				</div><!-- .container -->
+			</div><!-- .cspt-header-menu-area -->
+		</div><!-- .cspt-header-menu-area-wrapper -->
+</div><!-- .cspt-header-wrapper -->		<div class="cspt-slider-area"><link href="https://fonts.googleapis.com/css?family=Asap:600%2C700%2C300" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.8.2 fullwidth mode -->
+	<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.8.2">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-5" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="100"  data-thumb="https://biomovil.co/wp-content/uploads/2019/03/home-100x50.jpg"  data-delay="9000"  data-rotate="0"  data-saveperformance="off"  data-mediafilter="perpetua" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://biomovil.co/wp-content/uploads/2019/03/home.jpg"  alt="" title="home"  width="1967" height="768" data-bgposition="center bottom" data-kenburns="on" data-duration="9000" data-ease="Power1.easeIn" data-scalestart="100" data-scaleend="105" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-1" 
+			 data-x="38" 
+			 data-y="288" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":290,"speed":2000,"sfxcolor":"#ffffff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[5,5,5,5]"
+			data-paddingright="[20,20,20,20]"
+			data-paddingbottom="[5,5,5,5]"
+			data-paddingleft="[20,20,20,20]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 600; color: #009fe3; letter-spacing: 2px;font-family:Asap;text-transform:uppercase;background-color:rgb(255,255,255);">Preservamos el medio ambiente </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-2" 
+			 data-x="37" 
+			 data-y="336" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1960,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 55px; line-height: 60px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Asap;">Con soluciones Innovadoras<br>en limpieza, recolección de residuos<br> & tratamiento de aguas.  </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-6" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="100"  data-thumb="https://biomovil.co/wp-content/uploads/2018/12/baños-gradient-100x50.jpg"  data-delay="9000"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://biomovil.co/wp-content/uploads/2018/12/baños-gradient.jpg"  alt="" title="baños-gradient"  width="1900" height="1009" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Power1.easeIn" data-scalestart="100" data-scaleend="105" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-6-layer-1" 
+			 data-x="32" 
+			 data-y="267" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":320,"speed":2000,"sfxcolor":"#0a0a0a","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[5,5,5,5]"
+			data-paddingright="[20,20,20,20]"
+			data-paddingbottom="[5,5,5,5]"
+			data-paddingleft="[20,20,20,20]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 600; color: #009fe3; letter-spacing: 2px;font-family:Asap;text-transform:uppercase;background-color:rgb(255,255,255);">SUMINISTRAMOS Y HACEMOS MANTENIMIENTO </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-6-layer-2" 
+			 data-x="30" 
+			 data-y="320" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1960,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 55px; line-height: 60px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Asap;">De baños portátiles, pozos sépticos, trampas<br> de grasa, plantas de tratamiento de aguas<BR>residuales y tanques de agua potable. </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-12" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="100"  data-thumb="https://biomovil.co/wp-content/uploads/2019/03/home1-100x50.jpg"  data-delay="9000"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://biomovil.co/wp-content/uploads/2019/03/home1.jpg"  alt="" title="home1"  width="2000" height="780" data-bgposition="center bottom" data-kenburns="on" data-duration="9000" data-ease="Power1.easeIn" data-scalestart="100" data-scaleend="105" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-12-layer-1" 
+			 data-x="32" 
+			 data-y="267" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":320,"speed":2000,"sfxcolor":"#0a0a0a","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"+5680","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[5,5,5,5]"
+			data-paddingright="[20,20,20,20]"
+			data-paddingbottom="[5,5,5,5]"
+			data-paddingleft="[20,20,20,20]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 600; color: #009fe3; letter-spacing: 2px;font-family:Asap;text-transform:uppercase;background-color:rgb(255,255,255);">TAMBIÉN PROVEEMOS </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-12-layer-2" 
+			 data-x="31" 
+			 data-y="320" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1960,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"+4540","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 55px; line-height: 60px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Asap;">Motores, electrobombas, motobombas,<BR> microorganismos benéficos para el control<BR> de grasas, lodos y olores, productos de aseo<BR> y desinfección. </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-13" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="100"  data-thumb="https://biomovil.co/wp-content/uploads/2019/06/biogotas2-100x50.jpg"  data-delay="9000"  data-rotate="0"  data-saveperformance="off"  data-mediafilter="perpetua" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="https://biomovil.co/wp-content/uploads/2019/06/biogotas2.jpg"  alt="" title="biogotas2"  width="1967" height="768" data-bgposition="center bottom" data-kenburns="on" data-duration="9000" data-ease="Power1.easeIn" data-scalestart="100" data-scaleend="105" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-13-layer-1" 
+			 data-x="769" 
+			 data-y="275" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":290,"speed":2000,"sfxcolor":"#ffffff","sfx_effect":"blockfromleft","frame":"0","from":"z:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[5,5,5,5]"
+			data-paddingright="[20,20,20,20]"
+			data-paddingbottom="[5,5,5,5]"
+			data-paddingleft="[20,20,20,20]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 16px; line-height: 22px; font-weight: 600; color: #009fe3; letter-spacing: 2px;font-family:Asap;text-transform:uppercase;background-color:rgb(255,255,255);">pregunta por nuestras BIOGOTAS </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-13-layer-2" 
+			 data-x="right" data-hoffset="60" 
+			 data-y="329" 
+						data-width="['auto','auto']"
+			data-height="['auto','auto']"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1960,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 55px; line-height: 60px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Asap;">Con las Biogotas podrás obtener<br>muchos beneficios y descuentos<br>en todos nuestros servicios. </div>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script>
+if (setREVStartSize!==undefined) setREVStartSize(
+	{c: '#rev_slider_2_1', gridwidth: [1200], gridheight: [750], sliderLayout: 'fullwidth'});
+			
+var revapi2,
+	tpj;	
+(function() {			
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+	function onLoad() {				
+		if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+	if(tpj("#rev_slider_2_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_2_1");
+	}else{
+		revapi2 = tpj("#rev_slider_2_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//biomovil.co/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullwidth",
+			dottedOverlay:"none",
+			delay:6000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"on",
+				arrows: {
+					style:"metis",
+					enable:true,
+					hide_onmobile:true,
+					hide_under:1200,
+					hide_onleave:false,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+				,
+				bullets: {
+					enable:true,
+					hide_onmobile:false,
+					style:"hebe",
+					hide_onleave:false,
+					direction:"horizontal",
+					h_align:"center",
+					v_align:"bottom",
+					h_offset:0,
+					v_offset:20,
+					space:5,
+					tmp:'<span class="tp-bullet-image"></span>'
+				}
+			},
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:1200,
+			gridheight:750,
+			lazyType:"none",
+			parallax: {
+				type:"scroll",
+				origo:"slidercenter",
+				speed:400,
+				speedbg:1500,
+				speedls:500,
+				levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+			},
+			shadow:0,
+			spinner:"spinner0",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}; /* END OF revapi call */
+	
+ }; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+</script>
+		<script>
+					var htmlDivCss = unescape(".tp-caption%20span%7B%0A%20%20%20%20font-weight%3A%20700%3B%20%20%20%20%20%0A%20%20%20%20line-height%3A%2050px%3B%0A%20%20%20%20font-size%3A%2048px%20%0A%20%7D%0A%40media%20%28max-width%3A%20480px%29%20%7B%0A.tp-caption%20span%7B%20%20%0A%20%20%20%20line-height%3A%2030px%3B%0A%20%20%20%20font-size%3A%2026px%20%0A%20%7D%0A%7D");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script><script>
+					var htmlDivCss = unescape("%23rev_slider_2_1%20.metis.tparrows%20%7B%0A%20%20background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%20%20padding%3A10px%3B%0A%20%20transition%3Aall%200.3s%3B%0A%20%20-webkit-transition%3Aall%200.3s%3B%0A%20%20width%3A60px%3B%0A%20%20height%3A60px%3B%0A%20%20box-sizing%3Aborder-box%3B%0A%20%7D%0A%20%0A%20%23rev_slider_2_1%20.metis.tparrows%3Ahover%20%7B%0A%20%20%20background%3Argba%28255%2C255%2C255%2C0.75%29%3B%0A%20%7D%0A%20%0A%20%23rev_slider_2_1%20.metis.tparrows%3Abefore%20%7B%0A%20%20color%3Argb%280%2C%200%2C%200%29%3B%20%20%0A%20%20%20transition%3Aall%200.3s%3B%0A%20%20-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%23rev_slider_2_1%20.metis.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20transform%3Ascale%281.5%29%3B%0A%20%20%7D%0A%20%0A%0A.hebe.tp-bullets%3Abefore%20%7B%0A%20%20content%3A%22%20%22%3B%0A%20%20position%3Aabsolute%3B%0A%20%20width%3A100%25%3B%0A%20%20height%3A100%25%3B%0A%20%20background%3Atransparent%3B%0A%20%20padding%3A10px%3B%0A%20%20margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%20%20box-sizing%3Acontent-box%3B%0A%7D%0A%0A.hebe%20.tp-bullet%20%7B%0A%20%20width%3A3px%3B%0A%20%20height%3A3px%3B%0A%20%20position%3Aabsolute%3B%0A%20%20background%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%20%20%0A%20%20cursor%3A%20pointer%3B%0A%20%20border%3A5px%20solid%20rgba%280%2C%200%2C%200%2C%201%29%3B%0A%20%20border-radius%3A50%25%3B%0A%20%20box-sizing%3Acontent-box%3B%0A%20%20-webkit-perspective%3A400%3B%0A%20%20perspective%3A400%3B%0A%20%20-webkit-transform%3Atranslatez%280.01px%29%3B%0A%20%20transform%3Atranslatez%280.01px%29%3B%0A%20%20%20transition%3Aall%200.3s%3B%0A%7D%0A.hebe%20.tp-bullet%3Ahover%2C%0A.hebe%20.tp-bullet.selected%20%7B%0A%20%20background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%20%20border-color%3Argba%28255%2C%20255%2C%20255%2C%201%29%3B%0A%7D%0A%0A.hebe%20.tp-bullet-image%20%7B%0A%20%20position%3Aabsolute%3B%0A%20%20width%3A70px%3B%0A%20%20height%3A70px%3B%0A%20%20background-position%3Acenter%20center%3B%0A%20%20background-size%3Acover%3B%0A%20%20visibility%3Ahidden%3B%0A%20%20opacity%3A0%3B%0A%20%20bottom%3A3px%3B%0A%20%20transition%3Aall%200.3s%3B%0A%20%20-webkit-transform-style%3Aflat%3B%0A%20%20transform-style%3Aflat%3B%0A%20%20perspective%3A600%3B%0A%20%20-webkit-perspective%3A600%3B%0A%20%20transform%3A%20scale%280%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20-webkit-transform%3A%20scale%280%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20transform-origin%3A0%25%20100%25%3B%0A%20%20-webkit-transform-origin%3A0%25%20100%25%3B%0A%20%20margin-bottom%3A15px%3B%0A%20border-radius%3A6px%3B%0A%7D%0A.hebe%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20display%3Ablock%3B%0A%20%20opacity%3A1%3B%0A%20%20transform%3A%20scale%281%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20-webkit-transform%3A%20scale%281%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20visibility%3Avisible%3B%0A%7D%0A%0A%0A%2F%2A%20VERTICAL%20%2A%2F%0A%0A.hebe.nav-dir-vertical%20.tp-bullet-image%20%7B%0A%20%20bottom%3Aauto%3B%0A%20%20margin-right%3A15px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20right%3A3px%3B%0A%20%20transform%3A%20scale%280%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20scale%280%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20transform-origin%3A100%25%200%25%3B%0A%20%20-webkit-transform-origin%3A100%25%200%25%3B%0A%7D%0A%0A.hebe.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20scale%281%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20scale%281%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%2F%2A%20VERTICAL%20LEFT%20%2A%2F%0A%0A.hebe.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-image%20%7B%0A%20%20bottom%3Aauto%3B%0A%20%20margin-left%3A15px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20left%3A3px%3B%0A%20%20transform%3A%20scale%280%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20scale%280%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20transform-origin%3A0%25%200%25%3B%0A%20%20-webkit-transform-origin%3A0%25%200%25%3B%0A%7D%0A%0A.hebe.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20scale%281%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20scale%281%29%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%2F%2A%20HORIZONTAL%20TOP%20%2A%2F%0A.hebe.nav-pos-ver-top.nav-dir-horizontal%20.tp-bullet-image%20%7B%0A%20%20bottom%3Aauto%3B%0A%20%20top%3A3px%3B%0A%20%20transform%3A%20scale%280%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20-webkit-transform%3A%20scale%280%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20transform-origin%3A0%25%200%25%3B%0A%20%20-webkit-transform-origin%3A0%25%200%25%3B%0A%20%20margin-top%3A15px%3B%0A%20%20margin-bottom%3A0px%3B%20%20%0A%7D%0A.hebe.nav-pos-ver-top.nav-dir-horizontal%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20scale%281%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%20%20-webkit-transform%3A%20scale%281%29%20translateX%28-50%25%29%20translateY%280%25%29%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div>			</header><!-- #masthead -->
+	<div class="site-content-contain">
+		<div id="content" class="site-content container">
+			
+<div id="primary" class="content-area ">
+	<main id="main" class="site-main cspt-page-content-wrapper">
+
+					<article id="post-8332" class="post-8332 page type-page status-publish hentry">
+				<div class="entry-content">
+					<div class="vc_row wpb_row vc_row-fluid vc_custom_1549943663177 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-2">
+			
+<div class="cspt-box-shadow cspt-brdr-btm-effect wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-white cspt-zindex-2 cspt-responsive-custom-94483742">
+	<div class="vc_column-inner vc_custom_1550031313512">
+		<div class="wpb_wrapper">
+			
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="cspt-ihbox cspt-ihbox-style-4  cspt-reverse-heading-yes">
+	<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-headingicon d-flex">
+			<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper"><i class="cspt-greenly-icon cspt-greenly-icon-save-water"></i></div></div>			<div class="cspt-ihbox-contents">
+								<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Calidad</h2></div>				<div class="cspt-ihbox-content">Nuestros clientes confían en nosotros porque trabajamos con profesionalismo para generar tranquilidad.</div>							</div><!-- .cspt-ihbox-contents -->
+		</div>
+	</div>
+</div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="cspt-ihbox cspt-ihbox-style-4  cspt-reverse-heading-yes">
+	<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-headingicon d-flex">
+			<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper"><i class="cspt-greenly-icon cspt-greenly-icon-headset"></i></div></div>			<div class="cspt-ihbox-contents">
+								<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Servicio</h2></div>				<div class="cspt-ihbox-content">Somos expertos en lo que hacemos, si necesitas ayuda con algún proyecto, no dudes en solicitar la visita de uno de nuestros asesores.</div>							</div><!-- .cspt-ihbox-contents -->
+		</div>
+	</div>
+</div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="cspt-ihbox cspt-ihbox-style-4  cspt-reverse-heading-yes">
+	<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-headingicon d-flex">
+			<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper"><i class="cspt-greenly-icon cspt-greenly-icon-users"></i></div></div>			<div class="cspt-ihbox-contents">
+								<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experiencia</h2></div>				<div class="cspt-ihbox-content">Tenemos 11 años de experiencia cuidando el medio ambiente con los mejores equipos y estándares técnicos.</div>							</div><!-- .cspt-ihbox-contents -->
+		</div>
+	</div>
+</div>
+
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-white cspt-zindex-zero cspt-responsive-custom-19833902 cspt-break-col-991">
+			
+<div class="wpb_column vc_column_container vc_col-sm-6 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner vc_custom_1549970273374">
+		<div class="wpb_wrapper">
+			<div  class="cspt-ihbox cspt-ihbox-style-hsbox   cspt-reverse-heading-yes" >
+		<div class="cspt-ihbox-contents">
+				<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Por un mejor Ambiente</h2></div>					</div><!-- .cspt-ihbox-contents -->
+</div>
+
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p class="p1">En Biomovil llevamos 11 años generando tranquilidad a nuestros clientes a través de soluciones integrales en limpieza, recolección de residuos y tratamiento de aguas que preservan el medio ambiente.</p>
+
+		</div>
+	</div>
+<div  class="creativesplanet-ul-list cspt-ul-type-icon"><ul><li><i class="cspt-globalcolor entypo-icon entypo-icon-check"></i> Tenemos como base de trabajo la Responsabilidad.</li><li><i class="cspt-globalcolor entypo-icon entypo-icon-check"></i> Nos destacamos por prestar servicios con Excelencia.</li><li><i class="cspt-globalcolor entypo-icon entypo-icon-check"></i> Empleamos sistemas y tecnologías Innovadoras que producen el menor deterioro ambiental posible.</li><li><i class="cspt-globalcolor entypo-icon entypo-icon-check"></i> Promovemos la cultura del Respeto.</li></ul></div><div class="vc_btn3-container vc_btn3-inline vc_custom_1594263603231" >
+	<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-grey" href="https://biomovil.com.co/la-empresa/" title="La Empresa" target="_blank"><span>Conoce más</span></a></div>
+		</div>
+	</div>
+</div>
+
+
+<div class="wpb_column vc_column_container vc_col-sm-6 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-92825199">
+	<div class="vc_column-inner vc_custom_1549952159126">
+		<div class="wpb_wrapper">
+			
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1553657161723  cspt-effect-img-2">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="https://biomovil.co/wp-content/uploads/2019/03/waterfall-in-forest-P4CR5NE-584x590.jpg" width="584" height="590" alt="waterfall-in-forest-P4CR5NE" title="waterfall-in-forest-P4CR5NE" /></div>
+		</figure>
+	</div>
+<div  class="creativesplanet-ele creativesplanet-ele-fid creativesplanet-ele-fid-style-2 "><div class="cspt-fld-contents">
+	<div class="cspt-sbox-icon-wrapper"><i class="cspt-greenly-icon cspt-greenly-icon-leaf"></i></div>	<h4 class="cspt-fid-inner">
+		+		<span
+			class				  = "cspt-number-rotate"
+			data-appear-animation = "animateDigits"
+			data-from             = "0"
+			data-to               = "2100"
+			data-interval         = "10"
+			data-before           = ""
+			data-before-style     = ""
+			data-after            = ""
+			data-after-style      = ""
+			>
+				2100		</span>
+		<span class="cspt-fid-sub">Proyectos Realizados en 2020</span>
+	</h4>
+	<h3 class="cspt-fid-title"><span>Cuidando el Medio Ambiente<br></span></h3>
+</div><!-- .cspt-fld-contents -->
+
+</div>		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1548739055171 cspt-row cspt-bg-color-yes cspt-bg-color-light cspt-zindex-zero cspt-bgimage-position-right-bottom cspt-bgimage-yes vc_row-has-fill">
+			
+<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			<div  class="cspt-ihbox cspt-ihbox-style-hsbox   cspt-reverse-heading-yes cspt-align-center" >
+		<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-subheading"><h4 class="vc_custom_heading">NUESTROS SERVICIOS</h4></div>		<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Somos expertos en trabajar con pasión y calidad, respetando siempre el medio ambiente.</h2></div>					</div><!-- .cspt-ihbox-contents -->
+</div>
+
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-box-2-2-991 cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-gradientcolor cspt-zindex-2"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--rounded vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://biomovil.co/wp-content/uploads/2018/10/carro.jpg)">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">Pozos Sépticos y Trampas de Grasa</h2>
+            
+            <div class="vc_btn3-container vc_btn3-center">
+	<a class="vc_general vc_btn3 vc_btn3-size-xs vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-globalcolor" href="https://biomovil.com.co/service/pozos-septicos-y-trampas-de-grasa/" title="Nuestros Servicios"><span>Conoce más</span></a></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--rounded vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://biomovil.co/wp-content/uploads/2018/10/baño-portátil.jpg)">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">Suministro y mantenimiento de Baños Portátiles</h2>
+            
+            <div class="vc_btn3-container vc_btn3-center">
+	<a class="vc_general vc_btn3 vc_btn3-size-xs vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-globalcolor" href="https://biomovil.com.co/service/banos-portatiles/" title="Nuestros Servicios"><span>Conoce más</span></a></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--rounded vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://biomovil.co/wp-content/uploads/2018/10/aguas-residuales-1.jpg)">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">Aguas Residuales no domésticas</h2>
+            
+            <div class="vc_btn3-container vc_btn3-center">
+	<a class="vc_general vc_btn3 vc_btn3-size-xs vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-globalcolor" href="https://biomovil.com.co/service/aguas-residuales-no-domesticas/" title="Nuestros Servicios"><span>Conoce más</span></a></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div>
+
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-box-2-2-991 vc_custom_1627575524073 cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-bgimage-position-center-top">
+	<div class="wpb_column vc_column_container vc_col-sm-2 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-gradientcolor cspt-zindex-2 cspt-bgimage-position-center-top"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--rounded vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://biomovil.co/wp-content/uploads/2018/10/lavado-de-tanques.jpg)">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">Lavado deTanques de Agua Potable</h2>
+            
+            <div class="vc_btn3-container vc_btn3-center">
+	<a class="vc_general vc_btn3 vc_btn3-size-xs vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-globalcolor" href="https://biomovil.com.co/service/lavado-de-tanques-de-agua-potable/" title="Nuestros Servicios"><span>Conoce más</span></a></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc-hoverbox-wrapper  vc-hoverbox-shape--rounded vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://biomovil.co/wp-content/uploads/2018/10/microorganismos2.jpg)">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align:center">Microorganismos Benéficos y Equipos</h2>
+            
+            <div class="vc_btn3-container vc_btn3-center">
+	<a class="vc_general vc_btn3 vc_btn3-size-xs vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-globalcolor" href="https://biomovil.com.co/service/microorganismos-beneficos-y-equipos/" title="Nuestros Servicios"><span>Conoce más</span></a></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-2 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-73485859 cspt-break-col-991 cspt-extended-col cspt-extended-col-both vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+	<div class="cspt-extended-bg cspt-extended-bg-first-col"><div class="col-md-6 cspt-extended-bg-col  cspt-bgimage-position-center-center cspt-bg-color-yes cspt-bg-color-transparent cspt-bgimage-yes" style="background-image:url('https://biomovil.co/wp-content/uploads/2019/03/empresa-trabajando.jpg')"></div>
+						<div class="col-md-6"></div></div>	<div class="cspt-extended-bg cspt-extended-bg-last-col"><div class="col-md-6"></div>
+						<div class="col-md-6 cspt-extended-bg-col  cspt-bgimage-position-center-center cspt-bg-color-yes cspt-bg-color-white" ></div></div>	
+<div class="wpb_column vc_column_container vc_col-sm-6 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+					</div>
+	</div>
+</div>
+
+
+<div class="cspt-hide-colum wpb_column vc_column_container vc_col-sm-6 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero vc_col-has-fill">
+	<div class="vc_column-inner vc_custom_1549954032202">
+		<div class="wpb_wrapper">
+			<div  class="cspt-ihbox cspt-ihbox-style-hsbox   cspt-reverse-heading-yes" >
+		<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-subheading"><h4 class="vc_custom_heading">NUESTRA MISIÓN</h4></div>		<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">En Biomovil nos preocupa el cuidado del agua</h2></div>					</div><!-- .cspt-ihbox-contents -->
+</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1553751754961" >
+		<div class="wpb_wrapper">
+			<p class="p1">Queremos promover nuestros valores para la conservación ambiental a través de estos pequeños hábitos.</p>
+
+		</div>
+	</div>
+<div class="vc_progress_bar wpb_content_element  vc_progress-bar-color-bar_orange"><div class="vc_general vc_single_bar"><small class="vc_label"><span class="cspt-pbar-title">RESPONSABILIDAD con el uso de productos biodegradables.</span> <span class="vc_label_units">100+</span></small><span class="vc_bar-wrapper"><span class="vc_bar " data-percentage-value="100" data-value="100"></span></span></div><div class="vc_general vc_single_bar"><small class="vc_label"><span class="cspt-pbar-title">PROMOVER y participar en programas educativo-ambientales.</span> <span class="vc_label_units">100+</span></small><span class="vc_bar-wrapper"><span class="vc_bar " data-percentage-value="100" data-value="100"></span></span></div><div class="vc_general vc_single_bar"><small class="vc_label"><span class="cspt-pbar-title">INNOVAR con tecnologías que produzcan el menor deterioro ambiental.</span> <span class="vc_label_units">100+</span></small><span class="vc_bar-wrapper"><span class="vc_bar " data-percentage-value="100" data-value="100"></span></span></div><div class="vc_general vc_single_bar"><small class="vc_label"><span class="cspt-pbar-title">RESPETO con el medio ambiente y con los demás.</span> <span class="vc_label_units">100+</span></small><span class="vc_bar-wrapper"><span class="vc_bar " data-percentage-value="100" data-value="100"></span></span></div></div>		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1549943751404 cspt-row cspt-text-color-yes cspt-text-color-white cspt-bg-color-yes cspt-bg-color-globalcolor cspt-zindex-zero">
+			
+<div class="wpb_column vc_column_container vc_col-sm-8 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			<h2 style="font-size: 32px;line-height: 40px;text-align: left" class="vc_custom_heading vc_custom_1553745789139" >¿Tienes algún proyecto en éste momento?</h2>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1627576723234" >
+		<div class="wpb_wrapper">
+			<p>En Biomovil te asesoramos de manera profesional para que no tengas que preocuparte por nada</p>
+
+		</div>
+	</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			<div class="vc_btn3-container  cspt-align-left-767 vc_btn3-right vc_custom_1627576647523" >
+	<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-outline vc_btn3-color-white" href="https://biomovil.com.co/contactanos/" title="Contáctanos" target="_blank"><span>SOLICITA TU COTIZACIÓN</span></a></div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1549959545958 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-74543031 cspt-break-col-991 cspt-bgimage-yes vc_row-has-fill">
+			
+<div class="wpb_column vc_column_container vc_col-sm-5 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			<div  class="cspt-ihbox cspt-ihbox-style-hsbox   cspt-reverse-heading-yes" >
+		<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-subheading"><h4 class="vc_custom_heading">LOS NÚMEROS HABLAN</h4></div>		<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Nuestro profesionalismo y buen servicio habla por nosotros</h2></div>					</div><!-- .cspt-ihbox-contents -->
+</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="wpb_column vc_column_container vc_col-sm-7 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-34724944">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			
+<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1548742610904 cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="creativesplanet-ele creativesplanet-ele-fid creativesplanet-ele-fid-style-1 cspt-fid-big"><div class="cspt-fld-contents">
+	<div class="cspt-sbox-icon-wrapper"><i class=""></i></div>	<h4 class="cspt-fid-inner">
+		+		<span class="cspt-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="2100" data-interval="10" data-before="" data-before-style="" data-after="" data-after-style="">
+				2100		</span>
+		<span class="cspt-fid-sub"></span>
+	</h4>
+	</div><!-- .cspt-fld-contents -->
+
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><h4 style="font-size: 22px;line-height: 30px;text-align: left" class="vc_custom_heading">Proyectos Realizados en 2020</h4>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div class="page">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+Asesoramos profesionalmente proyectos desde 2010 con la mejor relación costo beneficio para nuestros clientes.
+</div>
+</div>
+</div>
+</div>
+
+		</div>
+	</div>
+</div></div></div></div>
+
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="creativesplanet-ele creativesplanet-ele-fid creativesplanet-ele-fid-style-1 cspt-fid-big"><div class="cspt-fld-contents">
+	<div class="cspt-sbox-icon-wrapper"><i class=""></i></div>	<h4 class="cspt-fid-inner">
+		+		<span class="cspt-number-rotate" data-appear-animation="animateDigits" data-from="0" data-to="1000" data-interval="5" data-before="" data-before-style="" data-after="" data-after-style="">
+				1000		</span>
+		<span class="cspt-fid-sub"></span>
+	</h4>
+	</div><!-- .cspt-fld-contents -->
+
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><h4 style="font-size: 22px;line-height: 30px;text-align: left" class="vc_custom_heading">Clientes Felices</h4>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			Generar tranquilidad a todos nuestros clientes es nuestra razón de ser.
+
+		</div>
+	</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1627583343684 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-bgimage-position-center-center cspt-bgimage-yes vc_row-has-fill">
+			
+<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-bgimage-position-center-center">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			<div  class="creativesplanet-element creativesplanet-element-cspt-client cspt-element-cspt-client-style-1 creativesplanet-element-viewtype-carousel" data-show="-1" data-columns="3" data-loop="true" data-autoplay="true" data-center="true" data-nav="true" data-dots="true" data-autoplayspeed="1000" data-margin=""><div class="creativesplanet-element-inner"><div  class="cspt-ihbox cspt-ihbox-style-hsbox  cspt-align-center" >
+		<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">ALGUNOS DE NUESTROS CLIENTES</h2></div>							</div><!-- .cspt-ihbox-contents -->
+</div>
+<div class="cspt-element-posts-wrapper row multi-columns-row"><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Argos</h4>
+	<div class="cspt-featured-wrapper"><img width="195" height="86" src="https://biomovil.co/wp-content/uploads/2018/10/Argos.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10998" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Caldas Gold</h4>
+	<div class="cspt-featured-wrapper"><img width="195" height="86" src="https://biomovil.co/wp-content/uploads/2019/03/CALDAS-GOLD-1.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10991" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">CEMEX</h4>
+	<div class="cspt-featured-wrapper"><img width="277" height="86" src="https://biomovil.co/wp-content/uploads/2019/03/CEMEX-2.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10994" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">COMFAMA</h4>
+	<div class="cspt-featured-wrapper"><img width="300" height="50" src="https://biomovil.co/wp-content/uploads/2018/10/COMFAMA-1-e1627670099694.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10999" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">CONINSA</h4>
+	<div class="cspt-featured-wrapper"><img width="282" height="86" src="https://biomovil.co/wp-content/uploads/2018/10/CONINSA-ULTIMO-1.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10997" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Conpacifico</h4>
+	<div class="cspt-featured-wrapper"><img width="282" height="86" src="https://biomovil.co/wp-content/uploads/2021/07/CONPACIFICO.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="11004" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">CONSORCIO FARALLONES</h4>
+	<div class="cspt-featured-wrapper"><img width="454" height="86" src="https://biomovil.co/wp-content/uploads/2018/11/FARALLONES-2.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" srcset="https://biomovil.co/wp-content/uploads/2018/11/FARALLONES-2.png 454w, https://biomovil.co/wp-content/uploads/2018/11/FARALLONES-2-300x57.png 300w" sizes="(max-width: 454px) 100vw, 454px" data-id="10995" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Consorcio Grupo Stork</h4>
+	<div class="cspt-featured-wrapper"><img width="198" height="86" src="https://biomovil.co/wp-content/uploads/2019/03/STORK-2.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10993" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Ecoportátil</h4>
+	<div class="cspt-featured-wrapper"><img width="468" height="86" src="https://biomovil.co/wp-content/uploads/2021/07/ECOPORTATIL.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" srcset="https://biomovil.co/wp-content/uploads/2021/07/ECOPORTATIL.png 468w, https://biomovil.co/wp-content/uploads/2021/07/ECOPORTATIL-300x55.png 300w" sizes="(max-width: 468px) 100vw, 468px" data-id="11021" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Estyma</h4>
+	<div class="cspt-featured-wrapper"><img width="258" height="86" src="https://biomovil.co/wp-content/uploads/2021/07/ESTYMA.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="11011" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Galeati</h4>
+	<div class="cspt-featured-wrapper"><img width="387" height="86" src="https://biomovil.co/wp-content/uploads/2021/07/GALEATI.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" srcset="https://biomovil.co/wp-content/uploads/2021/07/GALEATI.png 387w, https://biomovil.co/wp-content/uploads/2021/07/GALEATI-300x67.png 300w" sizes="(max-width: 387px) 100vw, 387px" data-id="11010" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Grupo San Pío</h4>
+	<div class="cspt-featured-wrapper"><img width="283" height="82" src="https://biomovil.co/wp-content/uploads/2019/03/GRUPO-SAN-PIO.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="10963" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">ISAGEN</h4>
+	<div class="cspt-featured-wrapper"><img width="356" height="86" src="https://biomovil.co/wp-content/uploads/2018/10/ISAGEN-2.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" srcset="https://biomovil.co/wp-content/uploads/2018/10/ISAGEN-2.png 356w, https://biomovil.co/wp-content/uploads/2018/10/ISAGEN-2-300x72.png 300w" sizes="(max-width: 356px) 100vw, 356px" data-id="10996" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Mesacé</h4>
+	<div class="cspt-featured-wrapper"><img width="151" height="86" src="https://biomovil.co/wp-content/uploads/2021/07/MESACE.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="11013" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Microplast &#8211; Coldeplast</h4>
+	<div class="cspt-featured-wrapper"><img width="320" height="43" src="https://biomovil.co/wp-content/uploads/2021/07/MICROPLAST-COLDEPLAST-e1627670134962.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="11017" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Socoda</h4>
+	<div class="cspt-featured-wrapper"><img width="198" height="86" src="https://biomovil.co/wp-content/uploads/2021/07/SOCODA.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" data-id="11018" /></div>	</div></article></div><div class="cspt-ele cspt-client-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-client cspt-client-style-1"><div class="cspt-client-wrapper">
+	<h4 class="cspt-hide">Veolia</h4>
+	<div class="cspt-featured-wrapper"><img width="344" height="86" src="https://biomovil.co/wp-content/uploads/2019/03/VEOLIA-3.png" class="attachment-cspt-img-770x9999 size-cspt-img-770x9999 wp-post-image" alt="" srcset="https://biomovil.co/wp-content/uploads/2019/03/VEOLIA-3.png 344w, https://biomovil.co/wp-content/uploads/2019/03/VEOLIA-3-300x75.png 300w" sizes="(max-width: 344px) 100vw, 344px" data-id="10992" /></div>	</div></article></div></div></div><!-- .creativesplanet-element-inner -->   </div><!-- .creativesplanet-element -->  		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-light cspt-zindex-zero">
+			
+<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+		<div class="wpb_wrapper">
+			<div  class="creativesplanet-element creativesplanet-element-testimonial cspt-element-testimonial-style-1 creativesplanet-element-viewtype-carousel" data-show="-1" data-columns="1" data-loop="true" data-autoplay="true" data-center="true" data-nav="true" data-dots="true" data-autoplayspeed="2000" data-margin=""><div class="creativesplanet-element-inner"><div  class="cspt-ihbox cspt-ihbox-style-hsbox  cspt-align-center" >
+		<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-heading"><div class="cspt-car-arrows-heading"><a href="#" class="cspt-carousel-prev"> <i class="cspt-base-icon-arrow-left"></i> </a> <a href="#" class="cspt-carousel-next"> <i class="cspt-base-icon-arrow-right"></i> </a></div><h2 style="font-family:Lora;font-weight:400;font-style:normal" class="vc_custom_heading">Nuestros clientes hablan por nosotros</h2></div>		<div class="cspt-ihbox-subheading"><h4 class="vc_custom_heading">Generamos tranquilidad a todos nuestros clientes a través de nuestro profesionalismo</h4></div>					</div><!-- .cspt-ihbox-contents -->
+</div>
+<div class="cspt-element-posts-wrapper row multi-columns-row"><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1 cspt-testimonial-active"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Biomovil nos presta un muy buen servicio de alquiler de baños portátiles, sus baños tienen muy buen aspecto y realizan los mantenimientos a tiempo, esto nos ha ayudado mucho a mejorar las condiciones de higiene en nuestras obras Pacifico 1 y Pacifico 2</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Concesionaria Vial del Pacifico &#8211; CONPACIFICO</h3>			
+			<span class="cspt-designation">Medellín - La Pintada</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Biomovil ha sido por muchos años nuestro gran aliado para realizar el mantenimiento de nuestras trampas de grasa y en este tiempo han trabajo con mucha seriedad, escuchando al cliente y atendiendo oportunamente nuestras necesidades</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Productos Alimenticios Doña Lucha</h3>			
+			<span class="cspt-designation">Sabaneta</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Estamos muy felices realizando nuestro mantenimiento periódico con Biomovil. Agradecemos mucho su profesionalismo durante tantos años.</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Lácteos El Corral Campesino</h3>			
+			<span class="cspt-designation">Medellín</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Confiamos en Biomovil para realizar nuestro mantenimiento periódico. En todo este tiempo nos han brindado equipos de buena calidad y nos han prestado un muy buen servicio.</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Thomas Instruments</h3>			
+			<span class="cspt-designation">Bogotá DC</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Biomovil ha sido muy profesional suministrándonos diferentes equipos de Sanidad Portátil, la atención al cliente es una de las razones por la cual los preferimos</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Ecobaño</h3>			
+			<span class="cspt-designation">Bogotá D.C</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>En el tiempo que nos han alquilado el baño portátil, se han caracterizado por un buen servicio, ser muy cumplidos y atender nuestros requerimientos de manera rápida</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Transportes Medellín Castilla</h3>			
+			<span class="cspt-designation">Medellín</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Siempre se han caracterizado por prestarnos un muy buen servicio</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">CHT Colombiana</h3>			
+					</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Agradezco mucho la atención prestada y la respuesta rápida y oportuna a solicitudes</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Juan Zuluaga &#8211; Constructora Espiral</h3>			
+			<span class="cspt-designation">Medellín</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Se han destacado por prestar muy buen servicio durante todo este tiempo</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Edificio Verona Mall segunda etapa PH</h3>			
+			<span class="cspt-designation">Medellín</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>El servicio del mantenimiento del pozo séptico de mi finca en Caldas fue excelente, ¡la atención del personal también!</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Patricia Mejía</h3>			
+			<span class="cspt-designation">Caldas</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><div class="eX1cmf">
+<div>
+<div><b class="CimZZ">Positivo:</b><span class="h5vETc"><span class="PVxqTb"> Calidad,</span><span class="PVxqTb"> Capacidad de respuesta,</span><span class="PVxqTb"> Precio,</span><span class="PVxqTb"> Profesionalismo</span></span></div>
+</div>
+</div>
+<p>Resolvieron muy amablemente todas mis dudas y prestaron un excelente servicio</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Daniela Valderrama</h3>			
+			<span class="cspt-designation">Llanogrande</span>		</div>
+	</div>	
+</div></article></div><div class="cspt-ele cspt-testimonial-ele col-md-12"><article class="creativesplanet-ele creativesplanet-ele-testimonial cspt-testimonial-style-1"><div class="creativesplanet-post-item">
+	<div class="creativesplanet-box-content">		
+		<div class="creativesplanet-box-desc">
+			<blockquote class="creativesplanet-testimonial-text"><p>Buen servicio y precios en los productos.</p>
+</blockquote>
+		</div>		
+		<div class="creativesplanet-box-author">	
+		    <div class="creativesplanet-box-img"></div>	
+			<h3 class="creativesplanet-box-title">Jaime Alberto Atehortua Medez</h3>			
+			<span class="cspt-designation">Itagüí</span>		</div>
+	</div>	
+</div></article></div></div></div><!-- .creativesplanet-element-inner -->   </div><!-- .creativesplanet-element -->  <div  class="creativesplanet-element creativesplanet-element-blog cspt-element-blog-style-3 creativesplanet-element-viewtype-row-column  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp " data-show="3" data-columns="3" data-loop="false" data-autoplay="false" data-center="false" data-nav="false" data-dots="false" data-autoplayspeed="1000" data-margin=""><div class="creativesplanet-element-inner"><div  class="cspt-ihbox cspt-ihbox-style-hsbox  cspt-reverse-heading-yes cspt-align-center" >
+		<div class="cspt-ihbox-contents">
+		<div class="cspt-ihbox-subheading"><h4 class="vc_custom_heading">NUESTRO BLOG</h4></div>		<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">¿Qué está pasando con el medio ambiente?</h2></div>					</div><!-- .cspt-ihbox-contents -->
+</div>
+<div class="cspt-element-posts-wrapper row multi-columns-row"><div class="cspt-ele cspt-blog-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-blog cspt-blogbox-style-3 post-10912 post type-post status-publish format-standard has-post-thumbnail hentry category-agua category-autoridad-ambiental category-madre-tierra category-mantenimiento-de-pozos-septicos category-medio-ambiente category-reciclaje category-residuos category-rural category-salud category-sistemas-septicos">
+	<div class="post-item">
+		<div class="cspt-featured-container">				
+			<div class="cspt-featured-wrapper"><img width="770" height="430" src="https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-770x430.jpg" class="attachment-cspt-img-770x430 size-cspt-img-770x430 wp-post-image" alt="RIESGOS DE UN SISTEMA SÉPTICO EN MAL FUNCIONAMIENTO" data-id="10908" /></div>	
+		</div>
+		<div class="creativesplanet-box-content">	
+			<div class="cspt-meta-container">
+					<span class="cspt-meta cspt-meta-date"><a href="https://biomovil.co/riesgos-de-un-sistema_septico-en-mal-funcionamiento/" rel="bookmark"><time class="entry-date published">24 Jul, 2021</time><time class="updated cspt-hide">24 Jul, 2021</time></a></span>
+				</div>
+			<h3 class="cspt-post-title"><a href="https://biomovil.co/riesgos-de-un-sistema_septico-en-mal-funcionamiento/">RIESGOS DE UN SISTEMA SÉPTICO EN MAL FUNCIONAMIENTO</a></h3>
+			<div class="creativesplanet-box-desc">
+				<div class="creativesplanet-box-desc-text">
+					Un sistema séptico en mal funcionamiento puede ser un gran peligro para las personas y el medio ambiente. Un sistema séptico en buen funcionamiento no solo asegura que las aguas&hellip;					<div class="cspt-read-more-link"><a href="https://biomovil.co/riesgos-de-un-sistema_septico-en-mal-funcionamiento/">Read More</a></div>
+				</div>				
+			</div>
+		</div>
+	</div>
+</article></div><div class="cspt-ele cspt-blog-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-blog cspt-blogbox-style-3 post-10797 post type-post status-publish format-standard has-post-thumbnail hentry category-agua category-banos-portatiles category-innovations category-madre-tierra category-medio-ambiente category-reciclaje category-residuos tag-agua-contaminada tag-banos-portatiles tag-basuras tag-contaminacion tag-ecosistemas tag-eventos tag-mineria tag-obras-de-construccion tag-residuos-domesticos">
+	<div class="post-item">
+		<div class="cspt-featured-container">				
+			<div class="cspt-featured-wrapper"><img width="770" height="430" src="https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-770x430.jpg" class="attachment-cspt-img-770x430 size-cspt-img-770x430 wp-post-image" alt="BENEFICIOS DE LOS BAÑOS PORTÁTILES" data-id="10806" /></div>	
+		</div>
+		<div class="creativesplanet-box-content">	
+			<div class="cspt-meta-container">
+					<span class="cspt-meta cspt-meta-date"><a href="https://biomovil.co/beneficios-de-los-banos-portatiles/" rel="bookmark"><time class="entry-date published">26 Sep, 2020</time><time class="updated cspt-hide">28 Sep, 2020</time></a></span>
+				</div>
+			<h3 class="cspt-post-title"><a href="https://biomovil.co/beneficios-de-los-banos-portatiles/">BENEFICIOS DE LOS BAÑOS PORTÁTILES</a></h3>
+			<div class="creativesplanet-box-desc">
+				<div class="creativesplanet-box-desc-text">
+					Alguna vez te has preguntado ¿Qué beneficios tienen los sanitarios portátiles? Los baños portátiles son muy útiles cuando grandes cantidades de personas se van a reunir y las instalaciones no&hellip;					<div class="cspt-read-more-link"><a href="https://biomovil.co/beneficios-de-los-banos-portatiles/">Read More</a></div>
+				</div>				
+			</div>
+		</div>
+	</div>
+</article></div><div class="cspt-ele cspt-blog-ele col-md-4"><article class="creativesplanet-ele creativesplanet-ele-blog cspt-blogbox-style-3 post-10297 post type-post status-publish format-standard has-post-thumbnail hentry category-madre-tierra category-medio-ambiente tag-basuras tag-celebrar tag-dia-de-la-tierra">
+	<div class="post-item">
+		<div class="cspt-featured-container">				
+			<div class="cspt-featured-wrapper"><img width="770" height="430" src="https://biomovil.co/wp-content/uploads/2019/03/tierra-en-la-mano-770x430.jpg" class="attachment-cspt-img-770x430 size-cspt-img-770x430 wp-post-image" alt="" data-id="10303" /></div>	
+		</div>
+		<div class="creativesplanet-box-content">	
+			<div class="cspt-meta-container">
+					<span class="cspt-meta cspt-meta-date"><a href="https://biomovil.co/el-22-de-abril-es-el-dia-de-la-tierra-como-celebrarlo/" rel="bookmark"><time class="entry-date published">28 Mar, 2019</time><time class="updated cspt-hide">03 Abr, 2020</time></a></span>
+				</div>
+			<h3 class="cspt-post-title"><a href="https://biomovil.co/el-22-de-abril-es-el-dia-de-la-tierra-como-celebrarlo/">El 22 de Abril es el día de la tierra ¿Cómo celebrarlo?</a></h3>
+			<div class="creativesplanet-box-desc">
+				<div class="creativesplanet-box-desc-text">
+					El día de la Tierra es una de las expresiones más bonitas y ecológicas que tenemos. Para el 22 de abril de 2019, el día de la Tierra, te proponemos pasar un día&hellip;					<div class="cspt-read-more-link"><a href="https://biomovil.co/el-22-de-abril-es-el-dia-de-la-tierra-como-celebrarlo/">Read More</a></div>
+				</div>				
+			</div>
+		</div>
+	</div>
+</article></div></div></div><!-- .creativesplanet-element-inner -->   </div><!-- .creativesplanet-element -->  		</div>
+	</div>
+</div>
+
+</div>
+<div class="vc_row-full-width vc_clearfix"></div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-## -->
+							</main><!-- #main -->
+</div><!-- #primary -->
+
+						
+			</div><!-- #content -->
+		
+		<footer id="colophon" class="site-footer  cspt-color-white cspt-bg-color-blackish cspt-footer-menu-no">
+									<div class="footer-wrap cspt-footer-widget-area  cspt-bg-color-transparent">
+				<div class="container">
+					<div class="row">
+														<div class="cspt-footer-widget cspt-footer-widget-col-1 col-md-6 col-lg-3">
+									<aside id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">BIOMOVIL</h2><div class="menu-principal-container"><ul id="menu-principal" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-10736"><a href="https://biomovil.co" aria-current="page">Inicio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10737"><a href="https://biomovil.co/la-empresa/">La Empresa</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10738"><a href="https://biomovil.co/servicios/">Productos y Servicios</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10739"><a href="https://biomovil.co/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10740"><a href="https://biomovil.co/politica-de-privacidad/">Política de Privacidad</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10741"><a href="https://biomovil.co/contactanos/">Contáctanos</a></li>
+</ul></div></aside>								</div><!-- .cspt-footer-widget -->
+															<div class="cspt-footer-widget cspt-footer-widget-col-2 col-md-6 col-lg-3">
+									<aside id="nav_menu-1" class="widget widget_nav_menu"><h2 class="widget-title">SÍGUENOS EN:</h2><div class="menu-social-menu-container"><ul id="menu-social-menu" class="menu"><li id="menu-item-3772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3772"><a target="_blank" rel="noopener" href="https://www.facebook.com/Biomovil-2372649496101900/">Facebook</a></li>
+<li id="menu-item-10764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10764"><a href="https://www.instagram.com/biomovilsas/">Instagram</a></li>
+</ul></div></aside>								</div><!-- .cspt-footer-widget -->
+															<div class="cspt-footer-widget cspt-footer-widget-col-3 col-md-6 col-lg-3">
+									<aside id="greenly_recent_posts_widget-2" class="widget greenly_recent_posts_widget"><h2 class="widget-title">ÚLTIMAS NOTICIAS</h2><ul class="cspt-rpw-list"><li><a href="https://biomovil.co/riesgos-de-un-sistema_septico-en-mal-funcionamiento/"><span class="cspt-rpw-img"><img width="150" height="150" src="https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="RIESGOS DE UN SISTEMA SÉPTICO EN MAL FUNCIONAMIENTO" loading="lazy" srcset="https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-150x150.jpg 150w, https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-300x300.jpg 300w, https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-1024x1024.jpg 1024w, https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-768x768.jpg 768w, https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO-770x770.jpg 770w, https://biomovil.co/wp-content/uploads/2021/07/PELIGROS-DE-UN-SISTEMA-SEPTICO-EN-MAL-FUNCIONAMIENTO.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px" data-id="10908" /></span></a><span class="cspt-rpw-content">
+						<span class="cspt-rpw-title"><a href="https://biomovil.co/riesgos-de-un-sistema_septico-en-mal-funcionamiento/">RIESGOS DE UN SISTEMA SÉPTICO EN MAL FUNCIONAMIENTO</a></span>
+						<span class="cspt-rpw-date"><a href="https://biomovil.co/riesgos-de-un-sistema_septico-en-mal-funcionamiento/">julio 24, 2021</a></span>
+					</span></li><li><a href="https://biomovil.co/beneficios-de-los-banos-portatiles/"><span class="cspt-rpw-img"><img width="150" height="150" src="https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="BENEFICIOS DE LOS BAÑOS PORTÁTILES" loading="lazy" srcset="https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-150x150.jpg 150w, https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-300x300.jpg 300w, https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-1024x1024.jpg 1024w, https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-768x768.jpg 768w, https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-1536x1536.jpg 1536w, https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-2048x2048.jpg 2048w, https://biomovil.co/wp-content/uploads/2020/09/Beneficios-banos-portatiles-770x770.jpg 770w" sizes="(max-width: 150px) 100vw, 150px" data-id="10806" /></span></a><span class="cspt-rpw-content">
+						<span class="cspt-rpw-title"><a href="https://biomovil.co/beneficios-de-los-banos-portatiles/">BENEFICIOS DE LOS BAÑOS PORTÁTILES</a></span>
+						<span class="cspt-rpw-date"><a href="https://biomovil.co/beneficios-de-los-banos-portatiles/">septiembre 26, 2020</a></span>
+					</span></li></ul>    </aside>								</div><!-- .cspt-footer-widget -->
+															<div class="cspt-footer-widget cspt-footer-widget-col-4 col-md-6 col-lg-3">
+									<aside id="wpforms-widget-3" class="widget wpforms-widget"><h2 class="widget-title">Recibe nuestros consejos, tips y promociones</h2><div class="wpforms-container wpforms-container-full" id="wpforms-10792"><form id="wpforms-form-10792" class="wpforms-validate wpforms-form" data-formid="10792" method="post" enctype="multipart/form-data" action="/" data-token="0479d4279ac24b52f65e69991b391d93"><noscript class="wpforms-error-noscript">Por favor, activa JavaScript en tu navegador para completar este formulario.</noscript><div class="wpforms-field-container"><div id="wpforms-10792-field_0-container" class="wpforms-field wpforms-field-name" data-field-id="0"><label class="wpforms-field-label" for="wpforms-10792-field_0">Nombre Completo <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-10792-field_0" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][0]" required></div><div id="wpforms-10792-field_1-container" class="wpforms-field wpforms-field-email" data-field-id="1"><label class="wpforms-field-label" for="wpforms-10792-field_1">Correo Electrónico <span class="wpforms-required-label">*</span></label><input type="email" id="wpforms-10792-field_1" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][1]" required></div><div id="wpforms-10792-field_4-container" class="wpforms-field wpforms-field-number" data-field-id="4"><label class="wpforms-field-label" for="wpforms-10792-field_4">Celular <span class="wpforms-required-label">*</span></label><input type="number" pattern="\d*" id="wpforms-10792-field_4" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][4]" required></div></div><div class="wpforms-submit-container" ><input type="hidden" name="wpforms[id]" value="10792"><input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="8332"><button type="submit" name="wpforms[submit]" class="wpforms-submit " id="wpforms-submit-10792" value="wpforms-submit" aria-live="assertive" data-alt-text="Enviando" data-submit-text="Enviar">Enviar</button></div></form></div>  <!-- .wpforms-container --></aside>								</div><!-- .cspt-footer-widget -->
+												</div><!-- .row -->
+				</div>	
+			</div>
+						<div class="cspt-footer-text-area  cspt-bg-color-transparent">
+				<div class="container">
+					<div class="row">
+												<div class="cspt-footer-copyright col-md-6">
+							<div class="cspt-footer-copyright-text-area">
+								Copyright &copy; 2019 All Rights Reserved.							</div>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</footer><!-- #colophon -->
+				
+	</div><!-- .site-content-contain -->
+</div><!-- #page -->
+<a href="#" class="scroll-to-top"><i class="cspt-base-icon-up-open-big"></i></a>
+<script>
+var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode:"02b7aae19e0215d8ba373ea34490dd9564b3f86d323e7f2a5632d325e3a24fc95283d981e4501f60d39d2598d225d609", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget?plugin_source=wordpress";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
+</script>
+<div class="joinchat joinchat--left joinchat--dark-auto" data-settings='{"telephone":"573103790279","mobile_only":false,"button_delay":3,"whatsapp_web":true,"message_views":1,"message_delay":10,"message_badge":true,"message_send":"Hola, visité su sitio: Home https://biomovil.co y me gustaría saber más sobre el servicio","message_hash":"5867a253"}'>
+	<div class="joinchat__button">
+		<div class="joinchat__button__open"></div>
+								<div class="joinchat__button__sendtext">Abrir chat</div>
+							<svg class="joinchat__button__send" viewbox="0 0 400 400" stroke-linecap="round" stroke-width="33">
+				<path class="joinchat_svg__plain" d="M168.83 200.504H79.218L33.04 44.284a1 1 0 0 1 1.386-1.188L365.083 199.04a1 1 0 0 1 .003 1.808L34.432 357.903a1 1 0 0 1-1.388-1.187l29.42-99.427"/>
+				<path class="joinchat_svg__chat" d="M318.087 318.087c-52.982 52.982-132.708 62.922-195.725 29.82l-80.449 10.18 10.358-80.112C18.956 214.905 28.836 134.99 81.913 81.913c65.218-65.217 170.956-65.217 236.174 0 42.661 42.661 57.416 102.661 44.265 157.316"/>
+			</svg>
+							<div class="joinchat__badge">1</div>
+							<div class="joinchat__tooltip"><div>Contáctanos al Whatsapp</div></div>
+			</div>
+			<div class="joinchat__box">
+			<div class="joinchat__header">
+									<a class="joinchat__powered" href="https://join.chat/es/powered/?site=Biomovil&url=https%3A%2F%2Fbiomovil.co" rel="nofollow noopener" target="_blank">
+						Funciona con <svg viewbox="0 0 1424 318"><title>Join.chat</title><path d="M171 7c1.3 0 3.2.6 5.5 1.8 2.3 1.1 3.5 2.3 3.5 3.4v1.2l-.3 3.6-.5 8a947.3 947.3 0 00-2 56v37.2l.2 15.9.2 23.7c.2 12.3.2 22.8.2 31.4 0 22-5.8 42.8-17.4 62.5-11.6 19.7-27.9 35.7-48.7 48S68 318 43.3 318c-14 0-24.6-2.7-32-8.2A27 27 0 010 286.6a27 27 0 017-18.7c4.7-5.2 11-7.8 18.8-7.8 6.9 0 13.1 2 18.7 6 5.4 3.8 9.7 7.9 12.8 12.4l.3.5A96.8 96.8 0 0068 291.9c3.7 4 7.2 5.9 10.3 5.9 4 0 7.1-2 9.6-6s4.5-11.8 6.2-23.3v-.6a363 363 0 002.5-47.5V104.2l.1-.1V76.3c0-1.6-.2-2.6-.6-3V73c-.5-.4-1.4-.8-3-1.2l-.5-.2-11.9-2c-1.9-.3-2.8-2.5-2.8-6.7 0-3.8 1-6 2.8-6.7 27-10.5 56.2-26.6 87.5-48.3a6 6 0 012.8-1zm1205 43c3.9 0 6 .8 6.1 2.5 1.3 9.6 2.1 21.8 2.5 36.6h.5a1888.3 1888.3 0 0033.7-.3h.8c1.7 0 2.8.7 3.4 2s1 4 1 8-.3 6.6-1 7.7c-.6 1.2-1.7 1.8-3.4 1.8h-1.9c-15.1 0-26-.2-32.8-.4v62c0 13.8 1.7 23.3 5.1 28.5 3.4 5.3 8.8 7.9 16 7.9 1.4 0 3-.3 4.6-1 1.7-.6 2.7-.9 3.1-.9 1.9 0 3.8 1 5.6 3 1.9 2 2.5 3.7 1.9 5.1a62.9 62.9 0 01-22 27.8 59.2 59.2 0 01-36.3 11.7c-16.1 0-28.4-4.9-36.9-14.6-3.3-3.8-6-8.1-8-13l-.4.4-.6.5c-17.4 17.1-33 25.7-46.7 25.7-18.7 0-31.7-13-39.2-39.2-5 12.3-12 22-21 28.9a49.2 49.2 0 01-30.7 10.3 37.6 37.6 0 01-29-12.5 44 44 0 01-11.4-30.7c0-9.5 1.6-17.2 5-23a41 41 0 0117-15.3c13.2-7 35.4-13.8 66.6-20.8l1-.2V138c0-10.8-1.7-19.3-5-25.5-3.3-6.4-7.9-9.6-13.7-9.6-2.8 0-4.4 1.6-5 4.7v.3l-2.1 14.8-.1.6a38.4 38.4 0 01-11.1 24c-6 5.4-13.5 8.1-22.4 8.1-5.2 0-9.6-1.5-13.1-4.6a16 16 0 01-5.3-12.7c0-10.7 8.8-21.7 26.3-33s37.5-17 60-17c41 0 61.7 15.2 62.1 45.7V192c0 4.6.3 8.4.7 11.4.4 3 1 5.4 1.7 7 .7 1.7 1.7 2.7 2.8 3.1 1.1.5 2.3.5 3.6 0a21 21 0 004.6-2.4l1.7-1c-.7-4-1-8.4-1-13v-85.8c0-1.5-.2-2.4-.6-2.8-.4-.5-1.4-.9-3-1.3l-11.2-1.6c-1.7-.2-2.5-2.3-2.5-6.2 0-4.4.8-6.7 2.5-7 15.9-3.7 29-8.6 39.3-14.6a144 144 0 0031-25.4c1.7-1.7 4-2.5 7.1-2.5zM290 88c27.5 0 49.7 7.2 66.6 21.6a73.1 73.1 0 0125.3 58.7c0 25.7-9 46-27 60.6S313.3 251 283.9 251c-27.5 0-49.7-7.2-66.6-21.6a73.1 73.1 0 01-25.3-58.7c0-25.7 9-46 27-60.6S260.8 88 290.1 88zm588.2 0c18.5 0 33.4 4.1 44.5 12.3 11.2 8.3 16.7 17.9 16.7 28.8 0 6.1-2.1 11.2-6.5 15.2s-9.9 6-16.7 6c-13 0-24-8.5-33-25.6-5.6-10.5-10-17.3-13-20.5s-6.1-4.8-9.7-4.8c-7.4 0-11 5.5-11 16.4 0 13.6 3 28.2 9.2 44a108 108 0 0023.2 37.5c8 8 16.5 12 25.4 12 7.6 0 15.3-3.3 23.2-9.9 1.4-1 3.5-.6 6.1 1.3 2.7 1.8 3.8 3.6 3.1 5.2a70.1 70.1 0 01-28.7 31.8 89 89 0 01-48.6 13.3 77.6 77.6 0 01-57.2-22.2 78.4 78.4 0 01-22.3-58c0-24.6 9-44.5 27-59.8 17.9-15.3 40.6-23 68.3-23zm-402.4-2.8c1.2 0 2.9.5 5 1.6 2 1 3 2 3 3.1l-.6 9.7a784.6 784.6 0 00-1.9 53.2v76.5c.1 2.2 1.3 3.6 3.5 4l.2.1 10.5 2.2.5.1h.4l10.5-2.2h.3c2.3-.5 3.4-2 3.4-4.4v-81.9c0-1.3-.2-2.1-.6-2.5-.4-.4-1.4-.8-3-1.3l-10.6-1.8h-.2c-1.5-.4-2.3-2.3-2.3-6 0-3.2.8-5.2 2.5-5.8a364 364 0 0074.3-42.9c.9-.6 1.7-.9 2.5-.9 1.3 0 3 .5 5 1.6s3 2 3 3v.1c0 .8-.1 4.9-.5 12a392.8 392.8 0 00-.7 21.8 64.5 64.5 0 0121.6-26 56.2 56.2 0 0134-10.6c16.2 0 29 4.6 38.5 14a52.6 52.6 0 0114 39v88.5c.2 2.3 1.4 3.7 3.8 4l10.5 2.3h.2c1.5.3 2.3 2.6 2.3 6.8 0 4.3-.8 6.5-2.5 6.5l-19-1c-11.7-.8-22-1.2-30.9-1.2s-18.8.4-29.9 1.1l-18 1.1c-1.7 0-2.6-2.2-2.6-6.5 0-4 .9-6.2 2.5-6.8l8.4-2.2.3-.1c1.5-.4 2.4-.8 2.8-1.3.4-.5.6-1.5.6-3v-61.9c0-14-2-24-6-29.7-4-5.8-11.2-8.7-21.6-8.7-3 0-5.3.4-6.8 1v99.6c0 1.3.2 2.2.6 2.7.4.5 1.5 1 3.1 1.4l8.4 2.1.1.1c1.6.7 2.4 3 2.4 6.8 0 4.3-.9 6.5-2.5 6.5l-18-1a454.5 454.5 0 00-60.7 0 868.8 868.8 0 01-20 1h-.2l-18.8-1c-11.6-.8-21.7-1.2-30.5-1.2s-19 .4-30.7 1.1l-19 1.1c-1.7 0-2.5-2.2-2.5-6.6 0-4.2.8-6.5 2.3-6.8h.2l10.4-2.2h.2c2.2-.5 3.4-1.9 3.5-4.1v-82.6c0-1.3-.3-2.1-.6-2.5-.4-.4-1.3-.8-2.8-1.2h-.3l-10.4-2h-.2c-1.5-.3-2.3-2.2-2.3-5.9 0-3.3.8-5.3 2.5-5.9a380 380 0 0077-43c1-.7 1.8-1 2.4-1zM1014.7 10c1.3 0 3 .5 5 1.5s3.1 2 3.1 3.1l-.6 9.5a758.2 758.2 0 00-1.9 54.5v42.7l.4-.6c5.1-8.8 12.2-16.1 21.3-22.1a56 56 0 0131.6-9.2c16.3 0 29.2 4.6 38.6 13.8a51.8 51.8 0 0114 38.8v87.6c.2 2.3 1.4 3.6 3.8 4l10.5 2.2h.2c1.5.3 2.3 2.6 2.3 6.7 0 4.3-.8 6.5-2.5 6.5l-19-1c-11.7-.8-22-1.2-30.9-1.2s-18.8.4-29.9 1.1l-18 1.1c-1.7 0-2.6-2.2-2.6-6.5 0-3.9.9-6.1 2.5-6.7l8.4-2.2h.3c1.5-.4 2.4-.9 2.8-1.4.4-.5.6-1.5.6-2.9V168c0-14-2-23.8-6-29.4-4-5.8-11.2-8.6-21.6-8.6-3 0-5.3.3-6.8.9v98.7c0 1.3.2 2.2.6 2.6.4.5 1.5 1 3.1 1.4l8.4 2.2h.1c1.6.7 2.4 3 2.4 6.7 0 4.3-.9 6.5-2.5 6.5l-18-1a459 459 0 00-60.7 0l-19.2 1c-1.7 0-2.5-2.2-2.5-6.5s.8-6.5 2.5-6.7l10.5-2.2h.3c2.3-.5 3.4-2 3.4-4.3V70.6c0-1.3-.2-2-.6-2.5-.4-.4-1.4-.8-3-1.2l-10.6-1.8h-.2c-1.5-.4-2.3-2.3-2.3-5.9 0-3.3.8-5.2 2.5-5.8 24-9.3 49.9-23.4 77.8-42.5 1-.6 1.8-.9 2.4-.9zm-743 90c-7.6 0-11.4 6.7-11.4 20.3 0 16.6 3.7 38.3 11.2 65.2 7.4 26.9 14.5 43.7 21.1 50.3 3.1 3 6.3 4.6 9.7 4.6 7.6 0 11.5-6.8 11.5-20.4 0-16.5-3.8-38.2-11.2-65.2-7.5-26.9-14.5-43.6-21.2-50.2-3.1-3.1-6.3-4.7-9.6-4.7zm939.2 64.9c-6 0-9.1 4.3-9.1 12.8 0 8.4 2.4 15.9 7 22.4 4.8 6.6 10 9.8 15.4 9.8 2.2 0 4-.6 5.4-2l.3-.1v-22.3a20.6 20.6 0 00-6.7-14.8c-4-3.9-8-5.8-12.3-5.8zM450.6 0a34 34 0 0125.5 10.3c6.7 6.9 10 15.4 10 25.7a35 35 0 01-35.5 36 34 34 0 01-25.5-10.4 35.3 35.3 0 01-10-25.6c0-10.3 3.3-18.8 10-25.7A34 34 0 01450.6 0zM748 249a31 31 0 0022-8.2c6-5.5 9-12.2 9-20.3s-3-14.8-8.9-20.3-13.2-8.2-22-8.2-16.3 2.7-22.2 8.2-8.9 12.2-8.9 20.3 3 14.8 8.9 20.3 13.3 8.2 22.1 8.2z"/></svg>
+					</a>
+								<div class="joinchat__close" aria-label="Cerrar"></div>
+			</div>
+			<div class="joinchat__box__scroll">
+				<div class="joinchat__box__content">
+					<div class="joinchat__message">Hola, muchas gracias por contactarnos, ¿cómo podemos ayudarte?</div>				</div>
+			</div>
+		</div>
+		<svg height="0" width="0"><defs><clipPath id="joinchat__message__peak"><path d="M17 25V0C17 12.877 6.082 14.9 1.031 15.91c-1.559.31-1.179 2.272.004 2.272C9.609 18.182 17 18.088 17 25z"/></clipPath></defs></svg>
+</div>
+			<script>
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel='stylesheet' id='cspt_greenly_icon-css'  href='https://biomovil.co/wp-content/plugins/greenly-addons/libraries/cspt-greenly-icon/flaticon.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='entypo-css'  href='https://biomovil.co/wp-content/plugins/greenly-addons/libraries/vc-entypo/vc_entypo.min.css?ver=5.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforms-full-css'  href='https://biomovil.co/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.7.0' type='text/css' media='all' />
+<script src='https://biomovil.co/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7' id='regenerator-runtime-js'></script>
+<script src='https://biomovil.co/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/biomovil.co\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script src='https://biomovil.co/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2' id='contact-form-7-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=4.1.15' id='joinchat-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.7' id='wpb_composer_front_js-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.7' id='waypoints-js'></script>
+<script src='https://biomovil.co/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.3' id='wpforms-validation-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2' id='wpforms-mailcheck-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/wpforms-lite/assets/js/punycode.min.js?ver=1.0.0' id='wpforms-punycode-js'></script>
+<script src='https://biomovil.co/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.7.0' id='wpforms-js'></script>
+<script>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"Este campo es obligatorio.","val_email":"Por favor, introduce una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida.","val_email_suggestion":"\u00bfQuer\u00edas decir {suggestion}?","val_email_suggestion_title":"Haz clic para aceptar esta sugerencia.","val_email_restricted":"Esta direcci\u00f3n de correo electr\u00f3nico no est\u00e1 permitida.","val_number":"Por favor, introduce un n\u00famero v\u00e1lido.","val_number_positive":"Por favor, introduce un n\u00famero de tel\u00e9fono v\u00e1lido.","val_confirm":"Los valores del campo no coinciden.","val_checklimit":"Has excedido el n\u00famero de selecciones permitidas: {#}.","val_limit_characters":"{count} de {limit} m\u00e1ximo de caracteres.","val_limit_words":"{count} de {limit} m\u00e1ximo de palabras.","val_recaptcha_fail_msg":"Ha fallado la verificaci\u00f3n de Google reCAPTCHA, por favor, int\u00e9ntalo de nuevo m\u00e1s tarde.","val_empty_blanks":"Por favor, completa todos los espacios en blanco.","uuid_cookie":"","locale":"es","wpforms_plugin_url":"https:\/\/biomovil.co\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/biomovil.co\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1"}
+/* ]]> */
+</script>
+</body>
+</html>
+
+<!--Generated by Endurance Page Cache-->
